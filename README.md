@@ -1,7 +1,10 @@
 ## Content 
-### friends.py 
-### normal_df.py 
-### cmpe-255-lab2.ipynb 
+```
+friends.py 
+normal_df.py
+normal_df.png 
+cmpe-255-lab2.ipynb 
+```
 
 ## Part 1 
 ### Sample output
@@ -11,7 +14,7 @@ mean= 32.81818181818182
 median = 25
 ```
 ## Part 2
-###Plot normal_df.py
+### Plot normal_df.py
 ![Kiku](normal_df.png)
 
   
